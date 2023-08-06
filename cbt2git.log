@@ -1,0 +1,9 @@
+2023-08-06 03:40:31.832563 - Initialized conversion of CBT366
+2023-08-06 03:40:31.876981 - Received CBT.V505.FILE366.PDS from FILE366.XMI 
+2023-08-06 03:40:31.879060 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/$$$#DATE
+2023-08-06 03:40:31.880087 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/$$$DOC
+2023-08-06 03:40:31.881079 - Found $$$MSHAW.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/$$$MSHAW
+2023-08-06 03:40:31.881975 - Found @FILE366.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/@FILE366
+2023-08-06 03:40:31.882936 - Found PDSADD.rexx (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/PDSADD
+2023-08-06 03:40:31.883814 - Found WW$EXEC.rexx (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/WW$EXEC
+2023-08-06 03:40:31.884632 - Found WW$PANEL.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/WW$PANEL
