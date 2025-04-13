@@ -1,0 +1,8 @@
+2025-04-13 19:02:22.684571 - Received CBT.V505.FILE366.PDS from FILE366.XMI 
+2025-04-13 19:02:22.685472 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/$$$#DATE
+2025-04-13 19:02:22.685559 - Found $$$DOC.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/$$$DOC
+2025-04-13 19:02:22.685625 - Found $$$MSHAW.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/$$$MSHAW
+2025-04-13 19:02:22.685689 - Found @FILE366.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/@FILE366
+2025-04-13 19:02:22.685764 - Found PDSADD.rexx (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/PDSADD
+2025-04-13 19:02:22.685827 - Found WW$EXEC.rexx (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/WW$EXEC
+2025-04-13 19:02:22.685888 - Found WW$PANEL.txt (text/plain) in CBT.V505.FILE366.PDS, moved to PDS/WW$PANEL
